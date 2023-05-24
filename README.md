@@ -6,9 +6,9 @@ Rust projects that I made to learn Rust but now have no use for...
 
 Here's a list of the projects included in this repository:
 
-1. Factorial: Get the factorial of a number.
-2. Palindrome Checker: Check if a string is a palindrome string.
-3. Random Number Game: Try guess a random number.
+1. [Factorial](https://github.com/aixizu/UselessRust/tree/master/factorial): Get the factorial of a number.
+2. [Palindrome Checker](https://github.com/aixizu/UselessRust/tree/master/plaindrome_checker): Check if a string is a palindrome string.
+3. [Random Number Game](https://github.com/aixizu/UselessRust/tree/master/random_number): Try guess a random number.
 
 ### Clone
 
